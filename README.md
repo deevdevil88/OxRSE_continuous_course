@@ -1,3 +1,4 @@
+![Python versions 3.6-3.8](https://github.com/deevdevil88/OxRSE_continuous_course/workflows/Python%20versions%203.6-3.8/badge.svg)
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
