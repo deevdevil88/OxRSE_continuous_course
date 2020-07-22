@@ -29,5 +29,5 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Run Where am I?
       run: |
-        echo pwd
-        echo  ls -la
+        pwd
+        ls -la
